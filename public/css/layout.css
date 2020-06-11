@@ -335,13 +335,13 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+.web-development {
+  	width: 80%;
+  	-moz-animation: web-development 2s ease;
+  	-webkit-animation: web-development 2s ease;
 }
 .css {
-  	width: 90%;
+  	width: 70%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
@@ -350,10 +350,16 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.jquery {
+.ui-ux {
   	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: ui-ux 2s ease;
+  	-webkit-animation: ui-ux 2s ease;
+}
+
+.react-native {
+   width: 60%;
+   -moz-animation: react-native 2s ease;
+   -webkit-animation: react-native 2s ease;
 }
 
 @-moz-keyframes photoshop {
@@ -364,46 +370,26 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-moz-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
-@-moz-keyframes css {
-  0%   { width: 0px;  }
-  100% { width: 90%;  }
-}
-@-moz-keyframes html5 {
+@-moz-keyframes web-development {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes css {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-moz-keyframes html5 {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
+}
+@-moz-keyframes ui-ux  {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
 
-@-webkit-keyframes photoshop {
+@-webkit-keyframes react-native {
   0%   { width: 0px;  }
   100% { width: 60%;  }
-}
-@-webkit-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-webkit-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
-@-webkit-keyframes css {
-  0%   { width: 0px;  }
-  100% { width: 90%;  }
-}
-@-webkit-keyframes html5 {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
-}
-@-webkit-keyframes jquery {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
 }
 
 /* ------------------------------------------------------------------ */

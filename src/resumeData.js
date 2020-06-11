@@ -60,45 +60,99 @@ let resumeData = {
     "skillsDescription":"Your skills here",
     "skills":[
       {
+        "skillname":"PHOTOSHOP"
+      },
+      {
+        "skillname":"ILLUSTRATOR"
+      },
+      {
         "skillname":"HTML5"
       },
       {
         "skillname":"CSS"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"WEB-DEVELOPMENT"
+      },
+      {
+        "skillname":"UI-UX"
+      },
+      {
+        "skillname":"REACT-NATIVE"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Screen 1",
+        "description":"screen 1",
+        "imgurl":"images/portfolio/wecause1.jpg",
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Screen 2",
+        "description":"screen 2",
+        "imgurl":"images/portfolio/wecause2.jpg"
+        
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Screen 3",
+        "description":"screen 3",  
+        "imgurl":"images/portfolio/wecause3.jpg"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Screen 4",
+        "description":"screen 4",
+        "imgurl":"images/portfolio/wecause4.jpg"
+        
+      }
+    ],
+     "portfolio1":[
+      {
+        "name1":"Spotify_screen_1",
+        "description1":"design_1",
+        "imgurl1":"images/spotify1.png"
+      },
+      {
+        "name1":"Spotify_screen_2",
+        "description1":"design_2",
+        "imgurl1":"images/spotify2.png"
+      },
+      {
+        "name1":"Spotify_screen_3",
+        "description1":"design_3",
+        "imgurl1":"images/spotify3.png"
+      },
+      {
+        "name1":"Spotify_screen_4",
+        "description1":"design_4",
+        "imgurl1":"images/spotify4.png"
+      }
+    ],
+    "portfolio2":[
+      {
+        "name2":"Screen_1",
+        "description2":"design_1",
+        "imgurl2":"images/ovul1.jpg"
+      },
+      {
+        "name2":"screen_2",
+        "description2":"design_2",
+        "imgurl2":"images/ovuli2.jpg"
+      },
+      {
+        "name2":"screen_3",
+        "description2":"design_3",
+        "imgurl2":"images/ovuli3.jpg"
+      },
+      {
+        "name2":"screen_4",
+        "description2":"design_4",
+        "imgurl2":"images/ovuli4.gif"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"We have a great time working the project submitted was really good. Great job! ",
+        "name":"Abhilash"
       }
     ]
   }
